@@ -1,0 +1,26 @@
+.button {
+    font-size: 24px;
+    outline: none;
+    margin: 0 10px 10px 0;
+    pointer-events: auto !important;
+}
+
+button:hover {
+    box-shadow: 2px 2px 5px #888;
+}
+
+#btn1 {
+    background-color: #FFF68F;
+}
+
+#btn2 {
+    background-color: #FFBBFF;
+}
+
+#btn3 {
+    background-color: #FF6A6A;
+}
+
+#btn4 {
+    background-color: #B0E2FF;
+}
